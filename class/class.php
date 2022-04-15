@@ -127,9 +127,9 @@ class Main_Classes
 
       $mail->IsSMTP();
 
-      $mail->Host = 'mail.neotrionet.com';
+      $mail->Host = 'host';
 
-      $mail->Port = '587';
+      $mail->Port = 'port';
 
       $mail->SMTPAuth = true;
 
