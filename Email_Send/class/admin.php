@@ -14,9 +14,9 @@ class Admin_Site
 
       $mail->SMTPAuth = true;
 
-      $mail->Username = 'swarnakarr34@gmail.com';
+      $mail->Username = 'enter-your-email';
 
-      $mail->Password = 'Bapi@!123';
+      $mail->Password = 'enter-your-password';
 
       $mail->SMTPSecure = 'tls';
 
