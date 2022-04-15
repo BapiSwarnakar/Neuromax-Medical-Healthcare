@@ -133,9 +133,9 @@ class Main_Classes
 
       $mail->SMTPAuth = true;
 
-      $mail->Username = 'info@neotrionet.com';
+      $mail->Username = 'enter-your-email';
 
-      $mail->Password = '++bZhi[Gbd5P';
+      $mail->Password = 'enter-your-password';
 
       $mail->SMTPSecure = 'tls';
 
